@@ -1,0 +1,7 @@
+homeharvest/__pycache__/
+homeharvest/core/__pycache__/
+homeharvest/core/scrapers/__pycache__/
+homeharvest/core/scrapers/realtor/__pycache__/
+homeharvest_old/
+unused_files/
+.DS_Store
